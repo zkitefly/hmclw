@@ -122,7 +122,7 @@ Hello Minecraft! Launcher拥有**六年历史**，口碑良好
 
 ！[![](https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-stable?label=Click_to_download_Hello_Minecraft!_Launcher_Stable_Edition_|_点击下载_Hello_Minecraft!_Launcher_稳定版)](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E7%A8%B3%E5%AE%9A%E7%89%88-)
 
-！[![](https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-stable?label=Stable_Edition|稳定版)](https://github.com/huanghongxun/HMCL/network)
+![![](https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-stable?label=Stable_Edition|稳定版)](https://github.com/huanghongxun/HMCL/network)
 
 <img src="https://img.shields.io/github/issues/huanghongxun/HMCL?style=for-the-badge" alt="">
   <img src="https://img.shields.io/github/issues/huanghongxun/HMCL?style=for-the-badge" alt="">
