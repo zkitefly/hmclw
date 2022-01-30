@@ -90,7 +90,7 @@ Hello Minecraft! Launcher拥有**六年历史**，口碑良好
 
 ### 海量的便捷功能
 
-> *自动分析崩溃日志 | 输出含有警告与错误信息的游戏日志 | 生成一件启动游戏的脚本 | 一件清理游戏目录 | 为游戏补齐缺失库与资源文件 | 一件删除游戏版本文爱你 | 便携式 Mod 管理 | 批量更新 Mod | 改变运行游戏的 Java 版本 | 自动选择合适的 Java 版本启动游戏 | 启动时修改游戏窗口大小 | 修改下载并发数 | 支持官方下载源、bmclapi下载源、mcbbs下载源 | 启动器内使用代理 | 修改游戏进程优先级 | 启动游戏时自动进入相应服务器 | 版本隔离 | 多游戏目录 | 能在已有的版本进行自动安装操作 | 离线账户修改皮肤  ……*
+> *自动分析崩溃日志  输出含有警告与错误信息的游戏日志  生成一件启动游戏的脚本  一件清理游戏目录  为游戏补齐缺失库与资源文件  一件删除游戏版本文爱你  便携式 Mod 管理  批量更新 Mod  改变运行游戏的 Java 版本  自动选择合适的 Java 版本启动游戏  启动时修改游戏窗口大小  修改下载并发数  支持官方下载源、bmclapi下载源、mcbbs下载源  启动器内使用代理  修改游戏进程优先级  启动游戏时自动进入相应服务器  版本隔离  多游戏目录  能在已有的版本进行自动安装操作  离线账户修改皮肤  ……*
 
 **✔** **一切为玩家考虑。**
 
@@ -130,7 +130,7 @@ Hello Minecraft! Launcher拥有**六年历史**，口碑良好
 
 [![](https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=Click_to_download_Hello_Minecraft!_Launcher_Dev_Edition_|_点击下载_Hello_Minecraft!_Launcher_开发版 )](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)
 
-[![](https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=Dev_Edition|开发版)](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)
+[![](https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=Dev_Edition开发版)](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)
 
 <a href="https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-"> 
   <img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=Dev_Edition|开发版" width="200" height="150" />
