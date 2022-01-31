@@ -2,7 +2,7 @@
 
 ------
 
-**[下载](#下载)·[关于](https://hmcl.huangyuhui.net/about/)·[用户协议](https://hmcl.huangyuhui.net/eula/)·[帮助文档](https://zkitefly.github.io/hmcld/)**        
+**[下载](/download.md)·[关于](https://hmcl.huangyuhui.net/about/)·[用户协议](https://hmcl.huangyuhui.net/eula/)·[帮助文档](https://zkitefly.github.io/hmcld/)**        
 
 ------
 
@@ -114,11 +114,10 @@ Hello Minecraft! Launcher拥有**六年历史**，口碑良好
 
 ## 下载
 
-[![](https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-stable?label=Click to download Hello Minecraft! Launcher Stable Edition 点击下载 Hello Minecraft! Launcher 稳定版)](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E7%A8%B3%E5%AE%9A%E7%89%88-)
+[<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-stable?label=Click to jump [Stable Edition]点击跳转[稳定版]" style="zoom: 200%;" />](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E7%A8%B3%E5%AE%9A%E7%89%88-)
 
 
-[![](https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=Click to download Hello Minecraft! Launcher Dev Edition 点击下载 Hello Minecraft! Launcher 开发版 )](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)
-
+[<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=Click to jump [Dev Edition]点击跳转[开发版]" style="zoom:200%;" />](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)
 
 
 
