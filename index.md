@@ -33,7 +33,7 @@ Hello Minecraft! Launcher拥有**六年历史**，口碑良好
 
 支持导入 **Curse、MultiMC** 整合包
 
-支持导出 **HMCL、MultiMC、自动更新整合包整合包
+支持导出 **HMCL、MultiMC、自动更新整合包**
 
 支持**创建游戏**并安装 **Fabric、Forge、LiteLoader、OptiFine**
 
