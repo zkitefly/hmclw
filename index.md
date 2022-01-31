@@ -2,7 +2,7 @@
 
 ------
 
-**[下载](#下载)·[关于](https://hmcl.huangyuhui.net/about/)·[用户协议](https://hmcl.huangyuhui.net/eula/)·[帮助文档](https://ldou123.github.io/hmcld/)**        
+**[下载](#下载)·[关于](https://hmcl.huangyuhui.net/about/)·[用户协议](https://hmcl.huangyuhui.net/eula/)·[帮助文档](https://zkitefly.github.io/hmcld/)**        
 
 ------
 
